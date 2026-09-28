@@ -4,9 +4,6 @@
 **Asignatura:** Fundamentos de programación  
 **Actividad:** Actividad final de unidad  
 
-## Introducción
-
-Este glosario integra cuarenta conceptos fundamentales de programación y desarrollo de software. Cada entrada presenta una explicación con palabras propias, un ejemplo breve y una fuente de consulta. Los términos están organizados desde los fundamentos del código y las estructuras de programación hasta las herramientas y prácticas utilizadas en proyectos de software.
 
 ## 1. Fundamentos de programación
 
