@@ -343,7 +343,3 @@
 - Python Software Foundation. (s. f.). *The Python Tutorial*. https://docs.python.org/3/tutorial/
 - Sommerville, I. (2011). *Ingeniería de software*. Pearson Addison Wesley.
 - TypeScript Documentation. (s. f.). https://www.typescriptlang.org/docs/
-
-## Conclusión
-
-Los conceptos estudiados abarcan las bases de la programación, las estructuras para construir soluciones y las herramientas que apoyan el desarrollo de software. Comprender algoritmos, variables, funciones y objetos permite crear programas; conocer compiladores, bibliotecas, frameworks y APIs ayuda a desarrollarlos con mayor eficiencia; y manejar Git, GitHub, ramas y commits facilita conservar el historial y colaborar. En conjunto, estos términos forman una base útil para continuar aprendiendo programación y participar en proyectos de software.
